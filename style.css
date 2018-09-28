@@ -1,0 +1,115 @@
+body
+{
+	background-color: #afafaf;
+}
+
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	text-align:center;
+	
+}
+
+#info
+{
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	background-color: #2E2B2B;
+	padding: 20px;
+}
+
+#menu
+{
+	background-color: #544D4D;
+}
+
+.MenuButton
+{
+	float:left;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	border-right: 2px dotted black;
+}
+
+.MenuButton:hover
+{
+	background-color:#2A5241;
+	cursor: pointer;
+}
+
+.NavButton
+{
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	border-bottom: 2px dotted black;
+	
+}
+
+.NavButton:hover
+{
+	background-color:#2A5241;
+	cursor: pointer;
+}
+
+
+#nav
+{
+	float: left;
+	background-color: #544D4D;
+	min-height: 485px;
+	width: 150px;
+}
+
+#content
+{
+	float: left;
+	background-color: #CCDBD5;
+	width: 850px;
+	min-height: 442px;
+}
+
+#hero
+{
+	float:left;
+	padding: 20px;
+	text-align:center;
+	border-right: 2px dotted black;
+}
+
+#description
+{
+	float:left;
+	font-size: 20px;
+	text-align:justify;
+	padding: 10px;
+	width: 512px;
+}
+
+#title
+{
+	padding-top: 10px;
+	padding-left: 5px;
+	color:#3d3d3d;
+	font-size: 35px;
+}
+
+#footer
+{
+	clear: both;
+	background-color: black;
+	text-align:center;
+	color:white;
+	padding: 1px;
+}
